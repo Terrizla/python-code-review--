@@ -1,8 +1,8 @@
-def add(a, b):
+ef add(a, b):
     return a + b
 
-
-def subtract(a, b):
+6685746
+def subtract(a, b)
     return a - b
 
 
@@ -16,7 +16,7 @@ def divide(a, b):
     return a / b
 
 
-def main():
+def ain():
     """Простое консольное меню"""
     while True:
         print("\n--- Калькулятор ---")
